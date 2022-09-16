@@ -1,5 +1,7 @@
 body{
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    margin: 0px;
+}
+h1{
+    font-size: 7vh;
 }
